@@ -7,4 +7,4 @@ layout: about
 
 --- 
 
-> 这个网站是 [webstack.cc](https://github.com/WebStackPage/WebStackPage.github.io) 的 [Jekyll](https://jekyllrb.com/) 版。
+> 这个网站是 [robotkang.cc](https://robotkang.cc) 的导航网站。
