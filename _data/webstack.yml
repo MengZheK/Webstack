@@ -41,10 +41,28 @@
       logo: /assets/images/logos/youtube.png
       url: https://www.youtube.com/
       description: 全球最大的学习分享平台
-    - title: Google
+    - title: 什么值得看
       logo: /assets/images/logos/google.png
-      url: https://www.google.com/
-      description: 全球最大的UI学习分享平台
+      url: https://smzdk.top/#/
+      description: 每天半小时-发现当下正在发生的有趣事
+
+- name: 影视书籍
+  icon: linecons-star
+  links: 
+    - title: 七味
+      logo: /assets/images/logos/dribbble.png
+      url: https://www.qncool.com/
+      description: 为您提供更新电影、好看的电影排行榜及电影迅雷下载。
+    - title: Behance
+      logo: /assets/images/logos/behance.png
+      url: https://behance.net/
+      description: Adobe旗下的设计师交流平台，来自世界各地的设计师在这里分享自己的作品。
+    - title: UI中国
+      logo: /assets/images/logos/uicn.png
+      url: https://www.ui.cn/
+      description: 图形交互与界面设计交流、作品展示、学习平台。
+
+
     
 
 - name: 社区资讯
